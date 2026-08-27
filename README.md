@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YB Auto Clicker
 
 Programa simples que fiz para automatizar cliques do mouse em um intervalo de tempo escolhido pelo usuário. Também dá pra configurar um atalho pra ligar/desligar sem precisar clicar na tela.
